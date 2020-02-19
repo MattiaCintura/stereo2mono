@@ -1,5 +1,5 @@
 # stereo2mono
-This is a simple Matlab script to convert an audio file from stereophonic to monophonic
+it’s a simple Matlab script which converts audio files from stereophonic to monophonic
 
 ## How to use it
 1. Import the file that you want to convert in the same folder of the script
